@@ -2,4 +2,4 @@ node default {
           include test
 }
 node puppet inherits default {}
-node agent1 inherits default {}
+node server1 inherits default {}
